@@ -4,6 +4,7 @@ CS Student at **Manuel S. Enverga University Foundation** · Philippines · he/h
 
 I'm a 3rd-year computer science student passionate about building software that makes a difference, 
 from full-stack web apps to mobile development and data science.
+
 📫 lester.altamira@gmail.com · [LinkedIn](https://linkedin.com/in/lester-altamira)
 
 ---
