@@ -15,7 +15,7 @@ from full-stack web apps to mobile development and data science.
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ash-nox&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ash-nox)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash-nox&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash-nox&theme=tokyonight&hide_border=true&cache_seconds=0)](https://git.io/streak-stats)
 
 ---
 
