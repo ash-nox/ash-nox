@@ -51,5 +51,3 @@ from full-stack web apps to mobile development and data science.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=ash-nox&color=blueviolet&style=flat-square)
